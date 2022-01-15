@@ -22,7 +22,7 @@ module.exports = {
     //},
 
     nav: [
-      { text: 'О нас', link: '/all' },
+      { text: 'О нас', link: '/' },
       { text: 'Погрузчики и Оборудование', link: '/all' },
       { text: 'Контакты', link: '/contact' }
     ],
@@ -116,6 +116,7 @@ function getGuideSidebar() {
         { text: 'Передний прицеп трактора', link: '/perednii-pritsep-traktora' }
       ]
     },
+    { text: 'Контакты', link: '/contact' }
   ]
 }
 
