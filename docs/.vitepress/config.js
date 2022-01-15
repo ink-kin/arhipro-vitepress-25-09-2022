@@ -1,11 +1,11 @@
 module.exports = {
   lang: 'ru-RU',
   title: 'БЮРО ПРОЦЕССНОГО ИНЖИНИРИНГА',
-  description: 'Мы продаём складскую и дорожно-строительную технику, навесное оборудование и запчасти Компания ООО «БПИ» - Партнёр Hyundai, Doosan, ТСМ, Nichiyu, Maximal',
+  description: 'Мы продаём складскую и дорожно-строительную технику, навесное оборудование и запчасти Компания ООО «БПИ» - Партнёр Hyundai, Toyota, Doosan, ТСМ, Nichiyu, Maximal',
 
   themeConfig: {
     docsDir: 'docs',
-
+    
     editLinks: false,
     editLinkText: 'Внести изменение страницы на GitHub',
     lastUpdated: 'Версия от ',

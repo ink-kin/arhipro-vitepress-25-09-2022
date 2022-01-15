@@ -1,0 +1,39 @@
+{
+"lang": "ru",
+"name": "Бюро процессного инжиниринга Погрузчики и оборудование",
+"short_name": "БПИ Погрузчики",
+"scope": "/",
+"display": "standalone",
+"start_url": "https://bpi-forklift/",
+"url": "https://bpi-forklift/",
+"background_color": "transparent",
+"theme_color": "transparent",
+"description": "Мы продаём складскую и дорожно-строительную технику, навесное оборудование и запчасти Компания ООО «БПИ» - Партнёр Hyundai, Toyota, Doosan, ТСМ, Nichiyu, Maximal",
+"orientation": "any",
+"related_applications": [],
+"prefer_related_applications": false,
+"icons": [{
+"src": "icon/bpi48.png",
+"sizes": "48x48",
+"type": "image/png"
+},
+{
+"src": "bpi.svg",
+"sizes": "72x72 96x96 128x128 256x256"
+}],
+"screenshots": [
+{
+"src": "screenshot1.png",
+"sizes": "1116x880",
+"type": "image/png",
+"platform": "wide",
+"label": "Бюро процессного инжиниринга Погрузчики и оборудование"
+},
+{
+"src": "screenshot2.png",
+"sizes": "1116x880",
+"type": "image/png",
+"platform": "wide",
+"label": "БПИ Погрузчики"
+}]
+}
