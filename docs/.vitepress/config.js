@@ -73,10 +73,18 @@ function getGuideSidebar() {
         { text: 'Toyota 62-8FD25', link: '/toyota-62-8fd25' },
         { text: 'Toyota 8FD25/8FDF25', link: '/toyota-8fd258fdf25' },
         { text: 'Toyota 62-7FD30', link: '/toyota-62-7fd30' },
-        { text: 'Инноваци', link: '/' },
-        { text: 'Инноваци', link: '/' },
-        { text: 'Инноваци', link: '/' },
-        { text: 'Инноваци', link: '/' }
+        { text: 'Toyota 62-8FD30', link: '/toyota-62-8fd30' },
+        { text: 'Toyota 8FD30/8FDF30', link: '/toyota-8fd308fdf30' },
+        { text: 'Toyota 02-7FD35', link: '/toyota-02-7fd35' },
+        { text: 'Toyota 02-7FDJ35', link: '/toyota-02-7fdj35' },
+        { text: 'Toyota 72-8FDJ35', link: '/toyota-72-8fdj35' }
+      ]
+    },
+    {
+      text: 'Кабины',
+      children: [
+        { text: 'Кабина цельнометаллическая', link: '/kabina-tselnometallicheskaya' },
+        { text: 'Мягкая кабина', link: '/myagkaya-kabina' }
       ]
     },
     {
