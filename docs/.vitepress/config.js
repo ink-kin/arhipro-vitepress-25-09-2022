@@ -22,11 +22,9 @@ module.exports = {
     //},
 
     nav: [
-      { text: 'THINK EXAMINING', link: '/', activeMatch: '^/$|^/guide/' },
-      {
-        text: 'Продвижение Интеллектуальной собственности',
-        link: '/pip/'
-      }
+      { text: 'О нас', link: '/all' },
+      { text: 'Погрузчики и Оборудование', link: '/all' },
+      { text: 'Контакты', link: '/contact' }
     ],
 
     sidebar: {
@@ -41,6 +39,8 @@ function getGuideSidebar() {
   return [
     {
       text: 'BPI', link: '/'
+    },{
+      text: 'УСЛУГИ', link: '/services'
     },
     {
       text: 'Погрузчики Hyundai',
@@ -116,7 +116,6 @@ function getGuideSidebar() {
         { text: 'Передний прицеп трактора', link: '/perednii-pritsep-traktora' }
       ]
     },
-    { text: 'Политика конфиденциальности', link: '/blog/privacy-policy' },
   ]
 }
 
