@@ -7,8 +7,9 @@
     "dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "serve": "vitepress serve docs"
-    },
+  },
   "devDependencies": {
+    "vite-plugin-pwa": "^0.11.13",
     "vitepress": "^0.15.6"
   }
 }

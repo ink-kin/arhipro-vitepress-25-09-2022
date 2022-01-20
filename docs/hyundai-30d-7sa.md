@@ -83,7 +83,7 @@ MITSUBISHI/S4S-455
 
 #### Напишите нам <a href="mailto:info@bpi-exp.ru">info@bpi-exp.ru</a>
 
-#### Напишите руководителю <a href="mailto:derector@bpi-exp.ru">derector@bpi-exp.ru</a>
+#### Напишите руководителю <a href="mailto:director@bpi-exp.ru">director@bpi-exp.ru</a>
 
 #### Постройте маршрут <a href="https://yandex.ru/maps/213/moscow/?from=api-maps&ll=37.560718%2C55.567506&mode=routes&origin=jsapi_2_1_79&rtext=~55.567988%2C37.560664&rtt=mt&ruri=~&z=19">117216, г. Москва, ул. Куликовская, д. 20, пом. 1, ком. 4</a>
 

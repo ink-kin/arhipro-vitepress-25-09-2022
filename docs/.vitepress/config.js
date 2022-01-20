@@ -24,6 +24,7 @@ module.exports = {
     nav: [
       { text: 'О нас', link: '/' },
       { text: 'Погрузчики и Оборудование', link: '/all' },
+      { text: 'Услуги', link: '/services' },
       { text: 'Контакты', link: '/contact' }
     ],
 
@@ -114,6 +115,16 @@ function getGuideSidebar() {
         { text: 'Механическое зажимное устройство', link: '/mehanicheskoe-zazhimnoe-ustroistvo' },
         { text: 'Механическое быстросъемное устройство', link: '/mehanicheskoe-bistrosemnoe-ustroistvo' },
         { text: 'Передний прицеп трактора', link: '/perednii-pritsep-traktora' }
+      ]
+    },
+    {
+      text: 'Статьи о погрузчиках',
+      children: [
+        { text: 'Права на вилочный погрузчик', link: '/rights_article' },
+        { text: 'Как выбрать вилочный погрузчик', link: '/choice_article' },
+        { text: 'Справочник по погрузчикам', link: '/guide' },
+        { text: 'Бензиновые погрузчики', link: '/petrol_article' },
+        { text: 'Газовые погрузчики', link: '/gas_article' }
       ]
     },
     { text: 'Контакты', link: '/contact' }
