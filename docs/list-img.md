@@ -12,8 +12,8 @@ head:
 # ООО «БПИ»
 
 
-![BPI погрузчики Hyundai, Toyota, Doosan, ТСМ, Nichiyu, Maximal](./accordion-element.png)
-![BPI погрузчики Hyundai, Toyota, Doosan, ТСМ, Nichiyu, Maximal](./accordion-element-in.png)
+![BPI погрузчики Hyundai, Toyota, Doosan, ТСМ, Nichiyu, Maximal](./assets/accordion-element.png)
+![BPI погрузчики Hyundai, Toyota, Doosan, ТСМ, Nichiyu, Maximal](./assets/accordion-element-in.png)
 
 
 Покупая вилочные погрузчики или навесное оборудование у нас, Вы получаете исчерпывающую информацию по всей имеющейся продукции. Мы всегда поможем сделать правильный выбор и выгодно купить понравившуюся модель погрузчика или навесного оборудования.
