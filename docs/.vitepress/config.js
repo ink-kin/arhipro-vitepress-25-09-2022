@@ -70,13 +70,13 @@ function getGuideSidebar() {
         { text: 'Книгоиздание Персоны ', link: '/arhi-pro-books' },
         { text: 'ИТ Персоны ', link: '/arhi-pro-info-tech' },
         { text: 'Выставочная деятельность Персоны ', link: '/arhi-pro-expo' },
-        { text: 'ВПК Персоны ', link: '/arhi-pro-' },
-        { text: 'Безопасность Персоны ', link: '/arhi-pro-' },
-        { text: 'Банки Персоны ', link: '/arhi-pro-' },
-        { text: 'Алкоголь Персоны ', link: '/arhi-pro-' },
+        { text: 'ВПК Персоны ', link: '/arhi-pro-vpk' },
+        { text: 'Безопасность Персоны ', link: '/arhi-pro-bezopasnost' },
+        { text: 'Банки Персоны ', link: '/arhi-pro-banks' },
+        { text: 'Алкоголь Персоны ', link: '/arhi-pro-alko' },
         { text: 'Агропромышленный комплекс Персоны ', link: '/arhi-pro-' },
-        { text: 'PR Персоны ', link: '/arhi-pro-' },
-        { text: 'HoReCa Персоны', link: '/arhi-pro-' }
+        { text: 'PR Персоны ', link: '/arhi-pro-pr' },
+        { text: 'HoReCa Персоны', link: '/arhi-pro-horeca' }
       ]
     },
     {
