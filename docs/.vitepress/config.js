@@ -44,10 +44,8 @@ function getGuideSidebar() {
       text: 'УСЛУГИ', link: '/services',
       children: [
         { text: 'Услуги', link: '/services' },
-        { text: 'Сертификация', link: '/404' },
-        { text: 'Само Определение', link: '/404' },
-        { text: 'Признание', link: '/404' },
-        { text: 'Мероприятия', link: '/404' },
+        { text: 'Сертификация', link: '/arhi-pro-start' },
+        { text: 'Мероприятия', link: '/arhi-pro-events' },
         { text: 'Банк', link: '/arhi-pro-bank' },
         { text: 'Консультации', link: '/404' },
         { text: 'Юридическая защита', link: '/law' },
