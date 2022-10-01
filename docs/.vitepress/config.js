@@ -25,7 +25,7 @@ module.exports = {
       { text: 'О нас', link: '/' },
       { text: 'Манифест', link: '/manifest' },
       { text: 'Услуги', link: '/services' },
-      { text: 'Контакты', link: '/contact' }
+      { text: 'Контакты', link: '/arhi-pro-contact' }
     ],
 
     sidebar: {
@@ -48,7 +48,7 @@ function getGuideSidebar() {
         { text: 'Само Определение', link: '/404' },
         { text: 'Признание', link: '/404' },
         { text: 'Мероприятия', link: '/404' },
-        { text: 'Банк', link: '/404' },
+        { text: 'Банк', link: '/arhi-pro-bank' },
         { text: 'Консультации', link: '/404' },
         { text: 'Юридическая защита', link: '/law' },
         { text: 'Сувенирная продукция', link: '/store' },
@@ -128,7 +128,7 @@ function getGuideSidebar() {
         { text: 'Справочник  ', link: '/404' },
       ]
     },
-    { text: 'Контакты', link: '/contact' }
+    { text: 'Контакты', link: '/arhi-pro-contact' }
   ]
 }
 
