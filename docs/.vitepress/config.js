@@ -50,7 +50,7 @@ function getGuideSidebar() {
         { text: 'Мероприятия', link: '/404' },
         { text: 'Банк', link: '/404' },
         { text: 'Консультации', link: '/404' },
-        { text: 'Юридическая защита', link: '/404' },
+        { text: 'Юридическая защита', link: '/law' },
         { text: 'Сувенирная продукция', link: '/store' },
       ]
     },
